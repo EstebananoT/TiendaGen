@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.form {
+    margin: auto;
+    display: table;
+    vertical-align: middle;
+    margin-top: 10%;
+    width: 30rem;
+    height: 15rem;
+}
+
+.titulo {
+    margin: auto;
+    display: table;
+    vertical-align: middle;
+}
+
+.answer {
+    display: table;
+}
+
+.form_et {
+    margin: auto;
+    display: table;
+    vertical-align: middle;
+}
+
+.bottoms {
+    margin: auto;
+    display: table;
+    vertical-align: middle;
+}
+
+.cancel_b {
+    margin-left: 20px;
+}
